@@ -45,12 +45,12 @@
 
  <tr><td colspan="2" height="18"></td></tr>
 
-<tr>
+<!-- <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/FOCUS-7C3AED?style=for-the-badge">
 </td>
 <td><i>Web Application Security • AI Security • Production RAG • Fine Tuning • API Security • Full Stack Web Development</i></td>
-</tr>
+</tr> -->
 
 <tr><td colspan="2" height="18"></td></tr>
 
@@ -64,12 +64,12 @@
 
 <tr><td colspan="2" height="18"></td></tr> 
 
-<!-- <tr>
+ <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/STATUS-7C3AED?style=for-the-badge">
 </td>
 <td><i>Securing cyberspace &amp; building AI pipelines</i></td>
-</tr> -->
+</tr> 
 
 </table>
 
