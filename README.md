@@ -43,7 +43,6 @@
 <td><i>Ethical Hacker • Web Application Penetration Tester • LLM Engineer • Full Stack Django Developer</i></td>
 </tr>
 
- <tr><td colspan="2" height="18"></td></tr>
 
 <!-- <tr>
 <td align="center">
