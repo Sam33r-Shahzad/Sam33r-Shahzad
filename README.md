@@ -92,79 +92,129 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
 
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="50"/> Tech Stack
 
 <div align="center">
 
 <table>
 
 <tr>
-<td><img src="https://img.shields.io/badge/NAME-Sameer%20Shahzad-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED"></td>
-</tr>
+<td align="center" width="230">
 
-<tr><td height="12"></td></tr>
+<img src="https://img.shields.io/badge/CYBERSECURITY-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
 
-<tr>
-<td><img src="https://img.shields.io/badge/USERNAME-Sam33r--Shahzad-7C3AED?style=for-the-badge&logo=github&logoColor=white&labelColor=7C3AED&color=7C3AED"></td>
-</tr>
+</td>
 
-<tr><td height="12"></td></tr>
-
-<tr>
-<td><img src="https://img.shields.io/badge/LOCATION-Punjab,%20Pakistan-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=7C3AED&color=7C3AED"></td>
-</tr>
-
-<tr><td height="18"></td></tr>
-
-<tr>
 <td>
 
-<img src="https://img.shields.io/badge/ROLE-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
-- Ethical Hacker  
-- Web Application Penetration Tester  
-- LLM Engineer  
-- Full Stack Django Developer
+- Ethical Hacking
+- Web Application Security
+- Penetration Testing
+- Vulnerability Assessment
+- OWASP Top 10
+- API Security & API Testing
+- Burp Suite
+- Metasploit
+- Nmap
+- Reconnaissance
+- Windows Privilege Escalation
+- Linux Privilege Escalation
+- Information Security
+- Information System Audit
 
 </td>
 </tr>
 
-<tr><td height="18"></td></tr>
+<tr><td colspan="2" height="18"></td></tr>
 
 <tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/LLM_ENGINEERING-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
+
+</td>
+
 <td>
 
-<img src="https://img.shields.io/badge/SPECIALIZATION-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
-- AI Security  
-- Production RAG Systems  
-- Web Application Security  
-- API Security
+- Large Language Models (LLMs)
+- Generative AI
+- Retrieval-Augmented Generation (RAG)
+- Fine-Tuning
+- QLoRA
+- AI Agents
+- AI Security
+- Production AI Applications
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
 </td>
 </tr>
 
-<tr><td height="18"></td></tr>
+<tr><td colspan="2" height="18"></td></tr>
 
 <tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
+
+</td>
+
 <td>
 
-<img src="https://img.shields.io/badge/CURRENTLY-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
-- Building Production AI Applications  
-- Solving PortSwigger Labs  
-- Learning Advanced AI Engineering
+- Full-Stack Development
+- Django
+- Django REST Framework
+- FastAPI
+- Next.js
+- React.js
+- JavaScript
+- TypeScript
+- Tailwind CSS
+- SQL
+- GitHub
+- Docker
 
 </td>
 </tr>
 
-<tr><td height="18"></td></tr>
+<tr><td colspan="2" height="18"></td></tr>
 
 <tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
+
+</td>
+
 <td>
 
-<img src="https://img.shields.io/badge/STATUS-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
+- Analysis of Algorithms
+- Data Structures
+- Database Management Systems (DBMS)
+- Object-Oriented Programming (OOP)
+- Python
+- C++
+- Cloud Computing
+- Computer Hardware Troubleshooting
 
-Securing cyberspace &amp; building AI pipelines
+</td>
+</tr>
+
+<tr><td colspan="2" height="18"></td></tr>
+
+<tr>
+<td align="center">
+
+<img src="https://img.shields.io/badge/BEYOND_THE_KEYBOARD-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
+
+</td>
+
+<td>
+
+- Professional Cricket Player (Passion)
+- Competitive PUBG Player
+- Urdu & Arabic Calligraphy
 
 </td>
 </tr>
@@ -172,7 +222,6 @@ Securing cyberspace &amp; building AI pipelines
 </table>
 
 </div>
-
 
 
 
