@@ -43,16 +43,16 @@
 <td><i>Ethical Hacker • Web Application Penetration Tester • LLM Engineer • Full Stack Django Developer</i></td>
 </tr>
 
-<tr><td colspan="2" height="18"></td></tr>
+<!-- <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
 <img src="https://img.shields.io/badge/FOCUS-7C3AED?style=for-the-badge">
 </td>
 <td><i>Web Application Security • AI Security • Production RAG • Fine Tuning • API Security • Full Stack Web Development</i></td>
-</tr>
+</tr> -->
 
-<tr><td colspan="2" height="18"></td></tr>
+<!-- <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
@@ -61,7 +61,7 @@
 <td><i>Building Production AI Applications • Advanced Web Pentesting • Full Stack Web Development Projects</i></td>
 </tr>
 
-<tr><td colspan="2" height="18"></td></tr>
+<tr><td colspan="2" height="18"></td></tr> -->
 
 <tr>
 <td align="center">
