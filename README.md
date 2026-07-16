@@ -117,7 +117,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=for-the-badge">
 </td>
-<td><i>Python • C++ • Data Structures • Analysis of Algorithms • Object-Oriented Programming • Database Management Systems • Cloud Computing • Computer Hardware Troubleshooting</i></td>
+<td><i>Python • C++ • Data Structures • Analysis of Algorithms • Object-Oriented Programming • Database Management Systems • Computer Hardware</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
