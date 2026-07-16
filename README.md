@@ -91,138 +91,56 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" alt="Hammer and Pick" width="50" height="50" /> Tech Stack
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Pick.png" width="50"/> Tech Stack
-
 <div align="center">
 
 <table>
 
 <tr>
-<td align="center" width="230">
-
-<img src="https://img.shields.io/badge/CYBERSECURITY-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
+<td width="220" align="center">
+<img src="https://img.shields.io/badge/CYBER_SECURITY-7C3AED?style=for-the-badge">
 </td>
-
-<td>
-
-- Ethical Hacking
-- Web Application Security
-- Penetration Testing
-- Vulnerability Assessment
-- OWASP Top 10
-- API Security & API Testing
-- Burp Suite
-- Metasploit
-- Nmap
-- Reconnaissance
-- Windows Privilege Escalation
-- Linux Privilege Escalation
-- Information Security
-- Information System Audit
-
-</td>
+<td><i>Ethical Hacking • Web Application Security • Penetration Testing • Vulnerability Assessment • OWASP Top 10 • API Security • API Testing • Burp Suite • Metasploit • Nmap • Reconnaissance • Windows & Linux Privilege Escalation • Information Security</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
-
-<img src="https://img.shields.io/badge/LLM_ENGINEERING-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
+<img src="https://img.shields.io/badge/LLM_ENGINEERING-7C3AED?style=for-the-badge">
 </td>
-
-<td>
-
-- Large Language Models (LLMs)
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- Fine-Tuning
-- QLoRA
-- AI Agents
-- AI Security
-- Production AI Applications
-- Machine Learning
-- Deep Learning
-- Artificial Intelligence
-
-</td>
+<td><i>Large Language Models (LLMs) • Generative AI • Retrieval-Augmented Generation (RAG) • Fine-Tuning • QLoRA • AI Agents • AI Security • Machine Learning • Deep Learning • Production AI Applications</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
-
-<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-7C3AED?style=for-the-badge">
 </td>
-
-<td>
-
-- Full-Stack Development
-- Django
-- Django REST Framework
-- FastAPI
-- Next.js
-- React.js
-- JavaScript
-- TypeScript
-- Tailwind CSS
-- SQL
-- GitHub
-- Docker
-
-</td>
+<td><i>Full Stack Development • Django • Django REST Framework • FastAPI • Next.js • React.js • JavaScript • TypeScript • Tailwind CSS • Docker • SQL • GitHub</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
-
-<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
+<img src="https://img.shields.io/badge/COMPUTER_SCIENCE-7C3AED?style=for-the-badge">
 </td>
-
-<td>
-
-- Analysis of Algorithms
-- Data Structures
-- Database Management Systems (DBMS)
-- Object-Oriented Programming (OOP)
-- Python
-- C++
-- Cloud Computing
-- Computer Hardware Troubleshooting
-
-</td>
+<td><i>Python • C++ • Data Structures • Analysis of Algorithms • Object-Oriented Programming • Database Management Systems • Cloud Computing • Computer Hardware Troubleshooting</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
 
 <tr>
 <td align="center">
-
-<img src="https://img.shields.io/badge/BEYOND_THE_KEYBOARD-7C3AED?style=for-the-badge&labelColor=7C3AED&color=7C3AED">
-
+<img src="https://img.shields.io/badge/BEYOND_THE_KEYBOARD-7C3AED?style=for-the-badge">
 </td>
-
-<td>
-
-- Professional Cricket Player (Passion)
-- Competitive PUBG Player
-- Urdu & Arabic Calligraphy
-
-</td>
+<td><i>Professional Cricket Player • Competitive PUBG Player • Urdu & Arabic Calligraphy</i></td>
 </tr>
 
 </table>
 
 </div>
-
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
