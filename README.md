@@ -52,7 +52,6 @@
 <td><i>Web Application Security • AI Security • Production RAG • Fine Tuning • API Security • Full Stack Web Development</i></td>
 </tr> -->
 
-<tr><td colspan="2" height="18"></td></tr>
 
 <!-- <tr>
 <td align="center">
