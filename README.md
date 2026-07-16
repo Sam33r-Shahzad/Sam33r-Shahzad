@@ -90,7 +90,7 @@
 <td width="220" align="center">
 <img src="https://img.shields.io/badge/CYBER_SECURITY-7C3AED?style=for-the-badge">
 </td>
-<td><i>Ethical Hacking • Web Application Security • Penetration Testing • Vulnerability Assessment • OWASP Top 10 • API Security • API Testing • Burp Suite • Metasploit • Nmap • Reconnaissance • Windows & Linux Privilege Escalation • Information Security</i></td>
+<td><i>Ethical Hacking • Web Application Security • Penetration Testing • Vulnerability Assessment • OWASP Top 10 • API Testing • Burp Suite • Metasploit • Nmap • Reconnaissance • Windows & Linux Privilege Escalation • Information Security</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
