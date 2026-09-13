@@ -39,7 +39,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/ROLE-7C3AED?style=for-the-badge">
 </td>
-<td><i>Ethical Hacker • Web Application Penetration Tester • LLM Engineer • Full Stack Django Developer</i></td>
+<td><i>Ethical Hacker • Web & Mobile Application Penetration Tester • LLM Engineer • Full Stack Django Developer</i></td>
 </tr>
 
 
