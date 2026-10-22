@@ -105,7 +105,7 @@
 <td align="center">
 <img src="https://img.shields.io/badge/WEB_DEVELOPMENT-7C3AED?style=for-the-badge">
 </td>
-<td><i>Full Stack Development • Django • Django REST Framework • FastAPI • Next.js • React.js • JavaScript • TypeScript • Tailwind CSS • Docker • SQL • GitHub</i></td>
+<td><i>Full Stack Development • Django • Django REST Framework • FastAPI • Flask • Next.js • React.js • JavaScript • TypeScript • Tailwind CSS • Docker • SQL • GitHub</i></td>
 </tr>
 
 <tr><td colspan="2" height="18"></td></tr>
